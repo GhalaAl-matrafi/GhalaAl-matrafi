@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  <img src="./baneer.jpeg" width="600" alt="Ghala's Banner">
+  <img src="./baneer.jpeg" width="100" alt="Ghala's Banner">
 </p>
 
 
