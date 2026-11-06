@@ -3,7 +3,7 @@
 
 # Hi, I'm Ghala 👋
 
-### Software Engineering Student | Aspiring Software Engineer
+### Software Engineer
 
 
 
