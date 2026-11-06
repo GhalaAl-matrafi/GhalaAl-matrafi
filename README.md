@@ -7,10 +7,9 @@
 
 *Building my skills, exploring technology, and turning ideas into code.*
 
-<img src="https://chatgpt.com/s/m_6aede4b9029c81918d11e1d1456dd60e" />
-
+<div align="center">
+  <img src="./ghala-github-banner.gif" width="100%" />
 </div>
-
 ---
 
 ## 👩🏻‍💻 About Me
