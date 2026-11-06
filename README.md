@@ -7,7 +7,7 @@
 
 *Building my skills, exploring technology, and turning ideas into code.*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Exploring+AI+%26+Web+Development;Learning+by+Building;Always+Growing+%F0%9F%9A%80" />
+<img src="https://chatgpt.com/s/m_6aede4b9029c81918d11e1d1456dd60e" />
 
 </div>
 
