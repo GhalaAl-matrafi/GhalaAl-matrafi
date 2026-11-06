@@ -8,8 +8,9 @@
 *Building my skills, exploring technology, and turning ideas into code.*
 
 <div align="center">
-  <img src="./ghala-github-banner.gif" width="100%" />
+  <img src="./ghala-github-banner.png" width="100%" />
 </div>
+
 ---
 
 ## 👩🏻‍💻 About Me
