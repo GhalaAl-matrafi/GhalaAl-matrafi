@@ -4,7 +4,7 @@
 # Hi, I'm Ghala 👋
 
 
-<p align="center">
+<p align="left">
   <img src="./baneer.jpeg" width="600" alt="Ghala's Banner">
 </p>
 
