@@ -5,18 +5,6 @@
 
 ### Software Engineering Student | Aspiring Software Engineer
 
-*Building my skills, exploring technology, and turning ideas into code.*
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D20,50:252B55,100:8B85C7&height=180&section=header&text=Ghala&fontSize=55&fontColor=E4DDFF&fontAlignY=40&animation=fadeIn&fontAlign=50" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%92%BB;Exploring+AI+%26+Technology+%E2%9C%A8;Learning+by+Building+%F0%9F%9A%80;Turning+Ideas+into+Code+%F0%9F%92%9C" />
-
-<br>
-
-*Building my skills, exploring technology, and turning ideas into code.*
-
-</div>
 
 
 ---
